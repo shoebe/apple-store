@@ -1,0 +1,83 @@
+
+ProductQuantityPair.java
++ ProductQuantityPair : class
+- product : Product
+- quantity : int
++ ProductQuantityPair(Product product, int quantity)
++ product) : ProductQuantityPair(Product
++ getQuantity() : int
++ void setQuantity(int quantity)
++ getProduct() : Product
+
+StoreManager.java
++ StoreManager : class
+- inventory : Inventory
+- HashMap<String, ShoppingCart> IDtoShoppingCart
++ StoreManager()
++ boolean hasProductInInventory(String productID)
++ int getStockOfProduct(String productID)
+- ShoppingCart getCart(String cartID)
++ createNewCart() : String
++ void addToCart(String cartID, String productID, int quantity)
++ void removeFromCart(String cartID, String productID, int quantity)
++ void removeCart(String cartID)
++ void resetCart(String cartID)
++ printInventory() : void
++ void printCart(String cartID)
++ void printCartSummary(String cartID)
+
+ProductQuantityCollection.java
++ ProductQuantityCollection : class
+- HashMap<String, ProductQuantityPair> IDtoPQPair
++ ProductQuantityCollection()
++ int getQuantity(String productID)
++ Product getProduct(String productID)
++ boolean hasProduct(String productID){
++ void addProductToCollection(Product product, int quantity)
++ void removeProductFromCollection(String productID)
++ void setQuantity(String productID, int quantity)
+- void changeQuantity(String productID, int amount)
++ void add(String productID, int amount)
++ void remove(String productID, int amount)
++ getAllProductIDs() : Stream<String>
++ isEmpty() : boolean
+
+StoreView.java
++ StoreView : class
+- storeManager : StoreManager
+- cartID : String
++ storeManager) : StoreView(StoreManager
++ displayGUI() : boolean
++ static void main(String[] args)
+
+log.txt
+
+log2.txt
+
+Product.java
++ Product : class
+- static int count = 0
+- name : String
+- id : String
+- price : double
++ Product(name: String , price: double)
++ getName() : String
++ getId() : String
++ getPrice() : double
+
+thingy.py
+
+ShoppingCart.java
++ class ShoppingCart extends ProductQuantityCollection
+- static int cartCount = 0
+- cartID : String
++ ShoppingCart()
++ getCartID() : String
++ void setQuantity(String productID, int quantity)
++ getTotalPrice() : double
++ getTotalItemCount() : int
+
+Inventory.java
++ class Inventory extends ProductQuantityCollection
++ Inventory()
++ setQuantity(String productID, int quantity) : void
