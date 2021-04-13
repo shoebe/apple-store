@@ -1,0 +1,261 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AnalysisUIOptions">
+    <option name="SCOPE_TYPE" value="4" />
+  </component>
+  <component name="AutomaticModuleUnloader">
+    <loaded-modules>
+      <module name="apple-store" />
+    </loaded-modules>
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="a1619669-440f-441c-bebf-e38547638746" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/Project Milestones/M1/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Project Milestones/M1/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Project Milestones/M1/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Project Milestones/M1/M1.drawio" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Project Milestones/M1/M1.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Project Milestones/M1/M1.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Project Milestones/M1/Report.odt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Project Milestones/M1/Report.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Project Milestones/M1/doc/Inventory.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Project Milestones/M1/doc/Product.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Project Milestones/M1/doc/StoreManager.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Project Milestones/M1/doc/allclasses-index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Project Milestones/M1/doc/allpackages-index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Project Milestones/M1/doc/constant-values.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Project Milestones/M1/doc/deprecated-list.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Project Milestones/M1/doc/element-list" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Project Milestones/M1/doc/help-doc.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Project Milestones/M1/doc/index-files/index-1.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Project Milestones/M1/doc/index-files/index-2.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Project Milestones/M1/doc/index-files/index-3.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Project Milestones/M1/doc/index-files/index-4.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Project Milestones/M1/doc/index-files/index-5.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Project Milestones/M1/doc/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Project Milestones/M1/doc/jquery-ui.overrides.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Project Milestones/M1/doc/member-search-index.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Project Milestones/M1/doc/module-search-index.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Project Milestones/M1/doc/overview-tree.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Project Milestones/M1/doc/package-search-index.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Project Milestones/M1/doc/package-summary.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Project Milestones/M1/doc/package-tree.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Project Milestones/M1/doc/resources/glass.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Project Milestones/M1/doc/resources/x.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Project Milestones/M1/doc/script-dir/images/ui-bg_glass_55_fbf9ee_1x400.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Project Milestones/M1/doc/script-dir/images/ui-bg_glass_65_dadada_1x400.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Project Milestones/M1/doc/script-dir/images/ui-bg_glass_75_dadada_1x400.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Project Milestones/M1/doc/script-dir/images/ui-bg_glass_75_e6e6e6_1x400.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Project Milestones/M1/doc/script-dir/images/ui-bg_glass_95_fef1ec_1x400.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Project Milestones/M1/doc/script-dir/images/ui-bg_highlight-soft_75_cccccc_1x100.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Project Milestones/M1/doc/script-dir/images/ui-icons_222222_256x240.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Project Milestones/M1/doc/script-dir/images/ui-icons_2e83ff_256x240.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Project Milestones/M1/doc/script-dir/images/ui-icons_454545_256x240.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Project Milestones/M1/doc/script-dir/images/ui-icons_888888_256x240.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Project Milestones/M1/doc/script-dir/images/ui-icons_cd0a0a_256x240.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Project Milestones/M1/doc/script-dir/jquery-3.5.1.min.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Project Milestones/M1/doc/script-dir/jquery-ui.min.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Project Milestones/M1/doc/script-dir/jquery-ui.min.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Project Milestones/M1/doc/script-dir/jquery-ui.structure.min.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Project Milestones/M1/doc/script.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Project Milestones/M1/doc/search.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Project Milestones/M1/doc/stylesheet.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Project Milestones/M1/doc/tag-search-index.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Project Milestones/M1/doc/type-search-index.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Project Milestones/M1/out/production/M1/Inventory.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Project Milestones/M1/out/production/M1/Product.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Project Milestones/M1/out/production/M1/ProductInformation.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Project Milestones/M1/out/production/M1/StoreManager.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Project Milestones/M1/src/Inventory.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Project Milestones/M1/src/Product.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Project Milestones/M1/src/StoreManager.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Project Milestones/M1/storeUML_M1.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Project Milestones/M2/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Project Milestones/M2/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Project Milestones/M2/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Project Milestones/M2/M2.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Project Milestones/M2/UML.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Project Milestones/M2/Untitled Diagram.drawio" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Project Milestones/M2/helper.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Project Milestones/M2/log.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Project Milestones/M2/log2.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Project Milestones/M2/out/production/M2/Inventory.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Project Milestones/M2/out/production/M2/Product.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Project Milestones/M2/out/production/M2/ProductQuantityCollection.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Project Milestones/M2/out/production/M2/ProductQuantityPair.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Project Milestones/M2/out/production/M2/ShoppingCart.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Project Milestones/M2/out/production/M2/StoreManager.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Project Milestones/M2/out/production/M2/StoreView.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Project Milestones/M2/out/production/M2/log.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Project Milestones/M2/out/production/M2/log2.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Project Milestones/M2/out/production/M2/thingy.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Project Milestones/M2/report.odt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Project Milestones/M2/report.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Project Milestones/M2/src/Inventory.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Project Milestones/M2/src/Product.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Project Milestones/M2/src/ProductQuantityCollection.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Project Milestones/M2/src/ProductQuantityPair.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Project Milestones/M2/src/ShoppingCart.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Project Milestones/M2/src/StoreManager.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Project Milestones/M2/src/StoreView.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Project Milestones/M2/storeUML_M2.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Project Milestones/M3/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Project Milestones/M3/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Project Milestones/M3/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Project Milestones/M3/.idea/uiDesigner.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Project Milestones/M3/M3.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Project Milestones/M3/Untitled Diagram.drawio" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Project Milestones/M3/out/production/M3/app/Inventory.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Project Milestones/M3/out/production/M3/app/Product.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Project Milestones/M3/out/production/M3/app/ProductQuantityCollection.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Project Milestones/M3/out/production/M3/app/ProductQuantityPair.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Project Milestones/M3/out/production/M3/app/ShoppingCart.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Project Milestones/M3/out/production/M3/app/StoreManager.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Project Milestones/M3/out/production/M3/app/StoreView.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Project Milestones/M3/out/production/M3/test/ShoppingCartTest.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Project Milestones/M3/out/production/M3/test/StoreManagerTest.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Project Milestones/M3/report.odt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Project Milestones/M3/report.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Project Milestones/M3/src/store/Inventory.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Project Milestones/M3/src/store/Product.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Project Milestones/M3/src/store/ProductQuantityCollection.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Project Milestones/M3/src/store/ProductQuantityPair.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Project Milestones/M3/src/store/ShoppingCart.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Project Milestones/M3/src/store/StoreManager.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Project Milestones/M3/src/store/StoreView.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Project Milestones/M3/src/storetest/ShoppingCartTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Project Milestones/M3/src/storetest/StoreManagerTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Project Milestones/M3/storeUML_M3.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Project Milestones/M3/storeUML_M3.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Project Milestones/M3/thingy.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Project Milestones/M4/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Project Milestones/M4/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Project Milestones/M4/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Project Milestones/M4/.idea/uiDesigner.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Project Milestones/M4/M3.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Project Milestones/M4/Untitled Diagram.drawio" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Project Milestones/M4/images/ambrosia.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Project Milestones/M4/images/envy.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Project Milestones/M4/images/fuji.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Project Milestones/M4/images/gala.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Project Milestones/M4/images/golden delicious.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Project Milestones/M4/images/granny smith.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Project Milestones/M4/images/honeycrisp.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Project Milestones/M4/images/jazz.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Project Milestones/M4/images/kiku.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Project Milestones/M4/images/mcintosh.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Project Milestones/M4/images/opal.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Project Milestones/M4/images/pink lady.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Project Milestones/M4/images/red delicious.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Project Milestones/M4/images/sweetie.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Project Milestones/M4/out/production/M3/store/Inventory.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Project Milestones/M4/out/production/M3/store/Product.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Project Milestones/M4/out/production/M3/store/ProductQuantityCollection.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Project Milestones/M4/out/production/M3/store/ProductQuantityPair.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Project Milestones/M4/out/production/M3/store/ShoppingCart.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Project Milestones/M4/out/production/M3/store/StoreManager.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Project Milestones/M4/out/production/M3/store/StoreView$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Project Milestones/M4/out/production/M3/store/StoreView$2.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Project Milestones/M4/out/production/M3/store/StoreView$3.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Project Milestones/M4/out/production/M3/store/StoreView$4.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Project Milestones/M4/out/production/M3/store/StoreView$5.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Project Milestones/M4/out/production/M3/store/StoreView.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Project Milestones/M4/out/production/M3/storetest/ShoppingCartTest.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Project Milestones/M4/out/production/M3/storetest/StoreManagerTest.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Project Milestones/M4/report.odt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Project Milestones/M4/report.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Project Milestones/M4/src/store/Inventory.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Project Milestones/M4/src/store/Product.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Project Milestones/M4/src/store/ProductQuantityCollection.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Project Milestones/M4/src/store/ProductQuantityPair.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Project Milestones/M4/src/store/ShoppingCart.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Project Milestones/M4/src/store/StoreManager.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Project Milestones/M4/src/store/StoreView.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Project Milestones/M4/storeUML_M4.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Project Milestones/M4/storeUML_M4.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Project Milestones/M5/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Project Milestones/M5/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Project Milestones/M5/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Project Milestones/M5/.idea/uiDesigner.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Project Milestones/M5/M5.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Project Milestones/M5/Untitled Diagram.drawio" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Project Milestones/M5/images/ambrosia.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Project Milestones/M5/images/envy.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Project Milestones/M5/images/fuji.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Project Milestones/M5/images/gala.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Project Milestones/M5/images/golden delicious.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Project Milestones/M5/images/granny smith.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Project Milestones/M5/images/honeycrisp.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Project Milestones/M5/images/jazz.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Project Milestones/M5/images/kiku.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Project Milestones/M5/images/mcintosh.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Project Milestones/M5/images/opal.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Project Milestones/M5/images/pink lady.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Project Milestones/M5/images/red delicious.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Project Milestones/M5/images/sweetie.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Project Milestones/M5/out/production/M5/store/Inventory.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Project Milestones/M5/out/production/M5/store/Product.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Project Milestones/M5/out/production/M5/store/ProductQuantityPair.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Project Milestones/M5/out/production/M5/store/ProductStockContainer.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Project Milestones/M5/out/production/M5/store/ShoppingCart.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Project Milestones/M5/out/production/M5/store/StoreManager.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Project Milestones/M5/out/production/M5/store/StoreView$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Project Milestones/M5/out/production/M5/store/StoreView$2.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Project Milestones/M5/out/production/M5/store/StoreView$3.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Project Milestones/M5/out/production/M5/store/StoreView$4.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Project Milestones/M5/out/production/M5/store/StoreView$5.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Project Milestones/M5/out/production/M5/store/StoreView.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Project Milestones/M5/report.odt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Project Milestones/M5/report.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Project Milestones/M5/src/store/Inventory.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Project Milestones/M5/src/store/Product.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Project Milestones/M5/src/store/ProductQuantityPair.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Project Milestones/M5/src/store/ProductStockContainer.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Project Milestones/M5/src/store/ShoppingCart.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Project Milestones/M5/src/store/StoreManager.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Project Milestones/M5/src/store/StoreView.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Project Milestones/M5/storeUML_M5.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Project Milestones/M5/storeUML_M5.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Project Milestones/M5/thingy.py" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectId" id="1r6JoOLLNcos57343BoJ5movN2p" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/src" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.11507481" />
+    <property name="run.code.analysis.last.selected.profile" value="pProject Default" />
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="a1619669-440f-441c-bebf-e38547638746" name="Default Changelist" comment="" />
+      <created>1618290779856</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1618290779856</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="UnloadedModulesList">
+    <module name="M1" />
+    <module name="M2" />
+    <module name="M3" />
+    <module name="M4" />
+    <module name="M5" />
+  </component>
+</project>
